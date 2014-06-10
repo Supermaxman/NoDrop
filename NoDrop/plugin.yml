@@ -1,0 +1,6 @@
+name: NoDrop
+main: me.supermaxman.nodrop.NoDrop
+version: 1.0.0
+author: Supermaxman
+description: NoDrops
+commands:
